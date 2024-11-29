@@ -1,5 +1,4 @@
 # File_Organizer
-# **ReadMe: File Organizer**
 
 ## **Overview**
 This script is a **File Organizer** written in Python. It organizes files within a given directory by grouping them into folders based on their file extensions. This is particularly useful for decluttering directories and making file management easier.
